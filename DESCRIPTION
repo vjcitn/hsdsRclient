@@ -1,0 +1,13 @@
+Package: hsdsRclient
+Title: interface to HDF5 object store 
+Description: Define an R interface to HDF5 object store.
+Version: 0.0.0
+Author: Vince Carey
+Suggests: knitr
+Depends: rhdf5client (>= 1.0.0)
+Maintainer: VJ Carey <stvjc@channing.harvard.edu>
+License: Artistic-2.0
+LazyLoad: yes
+biocViews: variants
+VignetteBuilder: knitr
+RoxygenNote: 6.0.1.9000
